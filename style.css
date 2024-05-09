@@ -1,3 +1,9 @@
+h1 {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 topnav {
   background-color: #333;
   overflow: hidden;
