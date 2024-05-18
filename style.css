@@ -28,11 +28,11 @@
 }
 
 .column.main {
-  width: 66%;
+  width: 75%;
 }
 
 .column.side {
-  width: 33%;
+  width: 25%;
 }
 
 @media screen and (max-width: 600px) {
