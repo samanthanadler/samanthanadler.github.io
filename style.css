@@ -1,6 +1,7 @@
-body {
-  background-color:#8AB8F4;
-  font-family:Garamond;
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
 }
 
 .topnav {
