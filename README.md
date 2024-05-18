@@ -1,0 +1,8 @@
+🙂 Welcome to my personal portfolio!
+-
+
+During the summer of 2021 (which was between sophomore and junior year of high school for me), I took part in a two-week virtual program through Girls Who Code, a non-profit closing the gender gap in the computing an technology fields. The objective of the program was to teach high schoolers interested in computing careers web development by creating pages about the causes we care about. Unfortunately, I lost access to my work from the program (Girls Who Code deleted my account as soon as the program was over), and I almost forgot most web development skills.
+
+Fast forward two years later. I'm in my first year at Hofstra University, working as a student aide in the university's department of Marketing and Communications. My job: work on Hofstra's website (yes, the one all students and faculty check on a daily basis). I relearned the HTML and CSS I had previously forgotten. I would receive emails from faculty and student leaders asking to make minor updates to their pages, which I would do so in timely fashion. Although I'm now working a different job, I feel like the skills I retaught myself in web development will help me in the long run when I apply for tech jobs.
+
+The most obvious example of that is this webpage, which I created in a few days. I wanted my page to reflect who I am, and after finding a website template I liked, I adjusted the colors, fonts, and added and deleted sections of the page. You can find facts about myself and contact information, but more importantly, I'll use this website to share whatever projects I deem are worthy of showing my recruiters. I hope you enjoy my website and the projects I'll consistently share here!
