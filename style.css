@@ -14,17 +14,13 @@ h2 {
   text-align:center;
 }
 
-a {
-  color: #8AB8F4;
-  text-decoration: none;
-}
-
-a:visited {
+a:link, a:visited {
   color: #8AB8F4;
   text-decoration: none;
 }
 
 a:hover {
+  color: #8AB8F4;
   text-decoration: underline;
 }
 
