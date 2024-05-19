@@ -6,11 +6,11 @@
 body {
   font-family: Garamond;
   padding: 20px;
-  background: #f1f1f1;
+  background: #8AB8F4;
 }
 
 h2 {
-  color:#8AB8F4;
+  color: #f1f1f1;
   text-align:center;
 }
 
@@ -18,7 +18,7 @@ h2 {
   padding: 30px;
   font-size: 28px;
   text-align: center;
-  background: #8AB8F4;
+  background: #f1f1f1;
 }
 
 .leftcolumn {
